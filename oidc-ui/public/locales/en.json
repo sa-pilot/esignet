@@ -301,20 +301,26 @@
       "mobile": "Mobile Number",
       "nrc": "NRC ID",
       "vid": "UIN/VID",
-      "email": "Email"
+      "email": "Email",
+      "identityNumber": "Identity Number",
+      "uin": "V-Credential Number"
     },
     "input": {
       "label": {
         "mobile": "Mobile Number",
         "nrc": "NRC ID",
         "vid": "UIN/VID",
-        "email": "Email"
+        "email": "Email",
+        "identityNumber": "Identity Number",
+        "uin": "V-Credential Number"
       },
       "placeholder": {
         "mobile": "Enter Mobile Number",
         "nrc": "Enter NRC ID",
         "vid": "Enter UIN/VID",
-        "email": "Enter Email ID"
+        "email": "Enter Email ID",
+        "identityNumber": "Enter Identity Number",
+        "uin": "Enter V-Credential Number"
       }
     }
   },
