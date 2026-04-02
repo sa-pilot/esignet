@@ -302,7 +302,7 @@
       "nrc": "NRC ID",
       "vid": "UIN/VID",
       "email": "Email",
-      "identityNumber": "Identity Number",
+      "identitynumber": "Identity Number",
       "uin": "V-Credential Number"
     },
     "input": {
@@ -311,7 +311,7 @@
         "nrc": "NRC ID",
         "vid": "UIN/VID",
         "email": "Email",
-        "identityNumber": "Identity Number",
+        "identitynumber": "Identity Number",
         "uin": "V-Credential Number"
       },
       "placeholder": {
@@ -319,7 +319,7 @@
         "nrc": "Enter NRC ID",
         "vid": "Enter UIN/VID",
         "email": "Enter Email ID",
-        "identityNumber": "Enter Identity Number",
+        "identitynumber": "Enter Identity Number",
         "uin": "Enter V-Credential Number"
       }
     }
