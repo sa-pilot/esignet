@@ -121,8 +121,8 @@ export const AppRouter = () => {
             <Detector
               polling={{
                   url: pollingUrl, // Set the polling URL dynamically
-                  interval: 15000, // Optional: Check every 5 seconds (default is 5000ms)
-                  timeout: 15000,  // Optional: Timeout after 3 seconds (default is 5000ms)
+                  interval: 60000, // Optional: Check every 5 seconds (default is 5000ms)
+                  timeout: 60000,  // Optional: Timeout after 3 seconds (default is 5000ms)
               }}
               render={({ online }) => {
                 if (!online) {
